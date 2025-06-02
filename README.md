@@ -1,2 +1,2 @@
 # data_wrangling_class
-Added for repo contents.
+Added for repo contents
